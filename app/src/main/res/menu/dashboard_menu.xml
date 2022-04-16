@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Go to Weight Log"
+        android:id="@+id/log"> </item>
+    <item android:title="Journey"
+        android:id="@+id/journey"> </item>
+    <item android:title="Set New Goal"
+        android:id="@+id/set"> </item>
+
+</menu>
